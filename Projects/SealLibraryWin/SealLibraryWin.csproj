@@ -1,4 +1,4 @@
-﻿<Project Sdk="Microsoft.NET.Sdk">
+<Project Sdk="Microsoft.NET.Sdk">
 
 	<PropertyGroup>
 		<OutputType>Library</OutputType>
@@ -39,7 +39,7 @@
 		<PackageReference Include="Microsoft.AspNetCore.Razor" Version="2.2.0" />
 		<PackageReference Include="Microsoft.AspNetCore.WebUtilities" Version="2.2.0" />
 		<PackageReference Include="Microsoft.Data.SqlClient" Version="5.0.0" />
-		<PackageReference Include="Microsoft.Windows.Compatibility" Version="6.0.0" />
+		<PackageReference Include="Microsoft.Windows.Compatibility" Version="6.0.6" />
 		<PackageReference Include="DocumentFormat.OpenXml">
 			<Version>2.18.0</Version>
 		</PackageReference>
